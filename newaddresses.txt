@@ -1,0 +1,35 @@
+****************
+Nome: John 
+Cognome: Doe 
+Piazza/Via: 120 jefferson st. 
+Città: Riverside  
+Provincia: NJ 
+Codice ZIP: 8075
+****************
+Nome: Jack 
+Cognome: McGinnis 
+Piazza/Via: 220 hobo Av. 
+Città: Phila  
+Provincia: PA 
+Codice ZIP: 9119
+****************
+Nome: John Da Man 
+Cognome: Repici 
+Piazza/Via: 120 Jefferson St. 
+Città: Riverside  
+Provincia: NJ 
+Codice ZIP: 8075
+****************
+Nome: Stephen 
+Cognome: Tyler 
+Piazza/Via: 7452 Terrace "At the Plaza" road 
+Città: SomeTown  
+Provincia: SD 
+Codice ZIP: 91234
+****************
+Nome:  
+Cognome: Blankman 
+Piazza/Via:  
+Città: New York  
+Provincia:  NY 
+Codice ZIP: 100101

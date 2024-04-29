@@ -15,6 +15,7 @@ namespace csharp_lista_indirizzi
         public string Province { get; set; }
         public int ZIP { get; set; }
 
+        // Costruttore 
         public Indirizzi (string name, string surname, string street, string city, string province, int zip)
         {
             this.Name = name;
@@ -25,6 +26,7 @@ namespace csharp_lista_indirizzi
             this.ZIP = zip;
         }
 
+        // Imposto la visualizzazione degli indirizzi in Console
         public override string ToString()
         {
             return $"****************\n" +
